@@ -19,7 +19,9 @@ main:
 docs:
   - title: Back-end
     children:
+      - title: "Java"
+        url: /categories/#Java/
       - title: "스프링"
-        url: /categories/Spring/
+        url: /categories/#Spring/
 
   - title: Algorithm
